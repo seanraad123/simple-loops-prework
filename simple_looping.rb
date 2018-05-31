@@ -29,6 +29,7 @@ def times_iterator(number_of_times)
   end
   7.times do
     puts phrase
+    counter = counter + 1
   end
 end
 
