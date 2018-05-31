@@ -24,7 +24,6 @@ def times_iterator(number_of_times)
   # code your solution here using the "times" keyword
   phrase = "Welcome to Flatiron School's Web Development Course!"
   counter = 0
-
   7.times do
     break if counter == number_of_times
     puts phrase
