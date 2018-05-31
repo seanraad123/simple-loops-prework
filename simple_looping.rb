@@ -40,7 +40,6 @@ def while_iterator(number_of_times)
     break if counter == number_of_times
     puts phrase
   end
-
 end
 
 def until_iterator(number_of_times)
